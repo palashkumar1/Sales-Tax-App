@@ -1,0 +1,5 @@
+com/example/salestaxapp/SalesTaxAppApplication.class
+com/example/salestaxapp/service/TaxService.class
+com/example/salestaxapp/model/RegularItem.class
+com/example/salestaxapp/utils/ReceiptPrinter.class
+com/example/salestaxapp/model/Item.class
